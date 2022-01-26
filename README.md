@@ -8,3 +8,8 @@ homework,emmmmmm....
 - git config --global user.email "..."/user.name "..."(配置.gitconfig文件)
 - git commit -m "..."
 - git push
+#### update
+- git pull
+- git push
+## linux operation
+- ps aux 
